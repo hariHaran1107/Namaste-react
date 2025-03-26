@@ -1,0 +1,25 @@
+{
+  "name": "react-code",
+  "version": "1.0.0",
+  "description": "this is react from scratch",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/hariHaran1107/Namaste-react.git)"
+  },
+  "keywords": [],
+  "author": "Hari Haran R",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.14.2"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "browserslist":[
+   "last 2 versions" 
+  ]
+}
